@@ -34,7 +34,7 @@ Or install it yourself as:
 
 Will return something like:
 
-```json
+```ruby
 {
   GetPublicLinkResult: {
     Error: null,
